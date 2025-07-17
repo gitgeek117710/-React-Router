@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
- "homepage": "https://gitgeek117710.github.io/-React-Router",
+ "homepage": "https://gitgeek117710.github.io/-React-Router/",
 "scripts": {
   "dev": "vite",
   "build": "vite build",
